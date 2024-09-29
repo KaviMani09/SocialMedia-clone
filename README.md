@@ -1,5 +1,6 @@
-# Mani-Portfolio
-![portfolio](https://github.com/user-attachments/assets/783caf03-f55c-4a4b-9179-adaab37da0d0)
+# Social-Media
+
+![social](https://github.com/user-attachments/assets/b5cedf87-58de-40c1-97f3-925ae7faf228)
 
 
 ## Skills
@@ -11,7 +12,6 @@
 ## Live 
 
 [social-media Live](https://manisocialmedia.netlify.app/)
-
 
 ## Run Locally
 
@@ -37,4 +37,13 @@ Open with live server
 ## Authors
 
 - [@KaviMani](https://www.github.com/KaviMani09)
+
+
+
+
+
+
+
+
+
 
