@@ -11,7 +11,7 @@
 
 ## Live 
 
-[social-media Live](https://manisocialmedia.netlify.app/)
+-Website (https://manisocialmedia.netlify.app/)
 
 ## Run Locally
 
